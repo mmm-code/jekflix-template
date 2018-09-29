@@ -1,14 +1,14 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: Come to Learn, Stay for Community | Kahn Cafe
 email: youremail@xyz.com
-description: Some text about your blog.
+description: Culture is life.
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: Kahn Cafe
+user_description: You are here to live culturally.
 disqus_username: disqus_username
 
 # Social Media
@@ -36,6 +36,8 @@ links:
     url: /
   - title: About
     url: /about/
+  - title: Courses
+    url: /courses/
   - title: Contact
     url: /contact/
 
