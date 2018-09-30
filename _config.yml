@@ -1,4 +1,5 @@
 # Site Settings
+remote_theme: thiagorossener/jekflix-template
 title: Cross Cultural Worlds | Kahn Cafe
 email: youremail@xyz.com
 description: Some text about your blog.
